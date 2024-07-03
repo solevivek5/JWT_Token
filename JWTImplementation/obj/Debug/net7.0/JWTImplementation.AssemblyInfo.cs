@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWTImplementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0fb09fc483c6d93f90d84286f5dfdada6d9d000")]
 [assembly: System.Reflection.AssemblyProductAttribute("JWTImplementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWTImplementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
