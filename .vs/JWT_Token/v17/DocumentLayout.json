@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\API_Practice\\JWT_Token\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD173500-2870-4A05-9A41-5BA104682D54}|JWT_Token\\JWT_Token.csproj|d:\\api_practice\\jwt_token\\jwt_token\\jwt_token\\obj\\release\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD173500-2870-4A05-9A41-5BA104682D54}|JWT_Token\\JWT_Token.csproj|solutionrelative:jwt_token\\jwt_token\\obj\\release\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD173500-2870-4A05-9A41-5BA104682D54}|JWT_Token\\JWT_Token.csproj|d:\\api_practice\\jwt_token\\jwt_token\\jwt_token\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD173500-2870-4A05-9A41-5BA104682D54}|JWT_Token\\JWT_Token.csproj|solutionrelative:jwt_token\\jwt_token\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\API_Practice\\JWT_Token\\JWT_Token\\JWT_Token\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "JWT_Token\\JWT_Token\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\API_Practice\\JWT_Token\\JWT_Token\\JWT_Token\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "JWT_Token\\JWT_Token\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:41:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\API_Practice\\JWT_Token\\JWT_Token\\JWT_Token\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JWT_Token\\JWT_Token\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\API_Practice\\JWT_Token\\JWT_Token\\JWT_Token\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JWT_Token\\JWT_Token\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:41:11.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
